@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#222222"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin" >
+
+    <ImageView
+        android:layout_width="300dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo"
+        android:layout_marginBottom="50dp"
+        android:contentDescription="@string/logo" />
+
+    <com.otaliastudios.cameraview.CameraView
+        android:id="@+id/camera"
+        android:keepScreenOn="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+
+    <ImageButton
+        android:id="@+id/btnUnlock"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:padding="15dp"
+        android:background="#00000000"
+        android:src="@drawable/unlock"
+        android:scaleType="fitXY"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@color/selector_txt_btn_unlock"
+        android:contentDescription="@string/unlock"
+        android:layout_gravity="bottom|right"/>
+
+    <ImageButton
+        android:id="@+id/btnCamera"
+        android:layout_width="75dp"
+        android:layout_height="75dp"
+        android:padding="15dp"
+        android:background="#00000000"
+        android:src="@drawable/cam"
+        android:scaleType="fitXY"
+        android:textAppearance="@android:style/TextAppearance.Large"
+        android:textColor="@color/selector_txt_btn_unlock"
+        android:contentDescription="@string/camera"
+        android:layout_gravity="bottom|left"/>
+
+</FrameLayout>

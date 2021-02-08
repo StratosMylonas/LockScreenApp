@@ -1,0 +1,229 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.3.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\dccdd9a2aa7cff3e5b3d4a20b0b519ed\appcompat-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:2:1-34:12
+MERGED from [androidx.fragment:fragment:1.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\4d3ba3677e139366de098fb78bf714ec\fragment-1.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\543c032048a0df722ace0ec95ffb356c\activity-1.2.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\9a51938e3027c10546029e0e8f83534d\appcompat-resources-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\90ad92d9d7e544d3d7a553e07e526cde\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\4d3225ea5d57f620bf5356e2a6f066d6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\b8ccf7b0840590c6d9e2efffce2f39a6\lifecycle-viewmodel-savedstate-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\122646bf5cb4cfe79acd721c03802cbe\savedstate-1.1.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\6b9249c515730b51d90cd5f78d18ab57\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\22c90e54a636a3da815c24040b17164b\lifecycle-viewmodel-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\e43b6d8aa514061eb6410d92a2869947\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\c2f6d884facc37b9ff0ce58440a2a09d\lifecycle-livedata-core-2.3.0-rc01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\d5bf5d996d4f8c184f67d9a87d8531c0\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\3fd5b4b866d23b43b0e15439a0ee99e7\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:7:5-75
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:7:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:22-65
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:9:5-81
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:9:22-78
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:10:5-75
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:10:22-72
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:11:22-75
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:12:5-65
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:11:5-65
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:11:5-65
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:12:22-62
+uses-feature#android.hardware.camera
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:13:5-60
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:19:5-21:36
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:19:5-21:36
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:13:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:14:5-70
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:22:5-24:36
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:22:5-24:36
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:14:19-67
+application
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:16:5-42:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:32:5-20
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:32:5-20
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:22:5-26:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:17:9-45
+activity#com.mehuljoisar.lockscreen.LockScreenActivity
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:19:9-31:20
+	android:screenOrientation
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:24:13-49
+	android:label
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:22:13-45
+	android:excludeFromRecents
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:21:13-46
+	android:launchMode
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:23:13-44
+	android:theme
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:25:13-71
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:20:13-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:27-74
+service#com.mehuljoisar.lockscreen.utils.LockscreenService
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:9-60
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:18-57
+receiver#com.mehuljoisar.lockscreen.utils.LockscreenIntentReceiver
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:35:9-41:20
+	android:enabled
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:37:13-35
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:36:13-59
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:38:13-40:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:39:25-76
+uses-sdk
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\73327337a728e12c5c3cdecdb4b7e327\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\dccdd9a2aa7cff3e5b3d4a20b0b519ed\appcompat-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.3.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\dccdd9a2aa7cff3e5b3d4a20b0b519ed\appcompat-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\4d3ba3677e139366de098fb78bf714ec\fragment-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\4d3ba3677e139366de098fb78bf714ec\fragment-1.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\543c032048a0df722ace0ec95ffb356c\activity-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\543c032048a0df722ace0ec95ffb356c\activity-1.2.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\9a51938e3027c10546029e0e8f83534d\appcompat-resources-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.3.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\9a51938e3027c10546029e0e8f83534d\appcompat-resources-1.3.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\90ad92d9d7e544d3d7a553e07e526cde\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\90ad92d9d7e544d3d7a553e07e526cde\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\921fb1c1970f14455564b73ac43ed75b\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\19ba019dbf22e650e8e95d7507462ba8\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\9d3d448a3878af78f8d5e2175d6f4332\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\a5f1739a336003917307af1b7a40c6ec\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\4d3225ea5d57f620bf5356e2a6f066d6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\4d3225ea5d57f620bf5356e2a6f066d6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\082141e7a08ecc0568dc277abb6b2eb2\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\b8ccf7b0840590c6d9e2efffce2f39a6\lifecycle-viewmodel-savedstate-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\b8ccf7b0840590c6d9e2efffce2f39a6\lifecycle-viewmodel-savedstate-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\122646bf5cb4cfe79acd721c03802cbe\savedstate-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\122646bf5cb4cfe79acd721c03802cbe\savedstate-1.1.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\6b9249c515730b51d90cd5f78d18ab57\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\6b9249c515730b51d90cd5f78d18ab57\lifecycle-runtime-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\22c90e54a636a3da815c24040b17164b\lifecycle-viewmodel-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\22c90e54a636a3da815c24040b17164b\lifecycle-viewmodel-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\1b49f6b12087442447a2c9046372b97f\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\e43b6d8aa514061eb6410d92a2869947\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\e43b6d8aa514061eb6410d92a2869947\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\5e93b9f41c3983a761aa6e19533f24ec\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\c2f6d884facc37b9ff0ce58440a2a09d\lifecycle-livedata-core-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.0-rc01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\c2f6d884facc37b9ff0ce58440a2a09d\lifecycle-livedata-core-2.3.0-rc01\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\d5bf5d996d4f8c184f67d9a87d8531c0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\d5bf5d996d4f8c184f67d9a87d8531c0\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\054d779a91766207571d826869795163\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\3fd5b4b866d23b43b0e15439a0ee99e7\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\3fd5b4b866d23b43b0e15439a0ee99e7\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
+uses-feature#android.hardware.camera.front
+ADDED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:25:5-27:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:27:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:26:9-53
+uses-feature#android.hardware.microphone
+ADDED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:28:5-30:36
+	android:required
+		ADDED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:30:9-33
+	android:name
+		ADDED from [com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:29:9-51
+meta-data#android.support.VERSION
+ADDED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:24:13-51
