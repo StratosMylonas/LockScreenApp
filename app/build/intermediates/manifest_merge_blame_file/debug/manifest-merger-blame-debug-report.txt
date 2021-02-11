@@ -1,8 +1,8 @@
 1<?xml version="1.0" encoding="utf-8"?>
 2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
 3    package="com.mehuljoisar.lockscreen"
-4    android:versionCode="3"
-5    android:versionName="1.2" >
+4    android:versionCode="1"
+5    android:versionName="1.0" >
 6
 7    <uses-sdk
 8        android:minSdkVersion="19"
@@ -90,7 +90,9 @@
 46                <category android:name="android.intent.category.LAUNCHER" />
 46-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:17-77
 46-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:27-74
-47                <!-- <category android:name="android.intent.category.HOME" /> -->
+47                <category android:name="android.intent.category.HOME" />
+47-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:32:17-73
+47-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:32:27-70
 48                <category android:name="android.intent.category.DEFAULT" />
 48-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:17-76
 48-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:27-73

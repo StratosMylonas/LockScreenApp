@@ -3,7 +3,6 @@ package com.mehuljoisar.lockscreen;
 import android.app.Activity;
 import android.app.KeyguardManager;
 import android.content.Intent;
-import android.media.Image;
 import android.os.Bundle;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
@@ -32,9 +31,8 @@ public class LockScreenActivity extends Activity implements
 		this.getWindow().setType(
 				WindowManager.LayoutParams.TYPE_KEYGUARD_DIALOG);
 		this.getWindow().addFlags(
-				WindowManager.LayoutParams.FLAG_FULLSCREEN
+						  WindowManager.LayoutParams.FLAG_FULLSCREEN
 						| WindowManager.LayoutParams.FLAG_SHOW_WHEN_LOCKED
-						| WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON
 						| WindowManager.LayoutParams.FLAG_DISMISS_KEYGUARD
 		);
 
@@ -49,7 +47,6 @@ public class LockScreenActivity extends Activity implements
 			enableKeyguard();
 			unlockHomeButton();
 		} else {
-
 			try {
 				// disable keyguard
 				disableKeyguard();
@@ -69,7 +66,6 @@ public class LockScreenActivity extends Activity implements
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-
 		}
 	}
 

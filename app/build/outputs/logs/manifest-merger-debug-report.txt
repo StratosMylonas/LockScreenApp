@@ -121,7 +121,7 @@ ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\And
 		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:27:13-71
 	android:name
 		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:22:13-47
-intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LAUNCHER
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.HOME+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LAUNCHER
 ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:28:13-34:29
 action#android.intent.action.MAIN
 ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:17-69
@@ -131,6 +131,10 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:17-77
 	android:name
 		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:27-74
+category#android.intent.category.HOME
+ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:32:17-73
+	android:name
+		ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:32:27-70
 category#android.intent.category.DEFAULT
 ADDED from C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:17-76
 	android:name
