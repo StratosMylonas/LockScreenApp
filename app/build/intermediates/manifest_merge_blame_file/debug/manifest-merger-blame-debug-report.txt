@@ -5,109 +5,122 @@
 5    android:versionName="1.2" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="15"
+8        android:minSdkVersion="19"
 8-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="15" />
+9        android:targetSdkVersion="19" />
 9-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.DISABLE_KEYGUARD" />
 11-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:7:5-75
 11-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:7:22-72
-12    <uses-permission android:name="android.permission.WAKE_LOCK" />
-12-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:5-68
-12-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:22-65
-13    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
-13-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:9:5-81
-13-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:9:22-78
-14    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
-14-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:10:5-75
-14-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:10:22-72
-15    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
-15-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:11:5-78
-15-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:11:22-75
-16    <uses-permission android:name="android.permission.CAMERA" />
-16-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:12:5-65
-16-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:12:22-62
-17
-18    <uses-feature android:name="android.hardware.camera" />
-18-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:13:5-60
-18-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:13:19-57
-19    <uses-feature android:name="android.hardware.camera.autofocus" />
-19-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:14:5-70
-19-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:14:19-67
-20    <uses-feature
-20-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:25:5-27:36
-21        android:name="android.hardware.camera.front"
-21-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:26:9-53
-22        android:required="false" />
-22-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:27:9-33
-23    <uses-feature
-23-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:28:5-30:36
-24        android:name="android.hardware.microphone"
-24-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:29:9-51
-25        android:required="false" />
-25-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:30:9-33
-26
-27    <application
-27-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:16:5-42:19
-28        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
-28-->[androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:24:18-86
-29        android:debuggable="true"
-30        android:icon="@drawable/ic_launcher"
-30-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:17:9-45
-31        android:label="@string/app_name"
-31-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:18:9-41
-32        android:testOnly="true" >
-33        <activity
-33-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:19:9-31:20
-34            android:name="com.mehuljoisar.lockscreen.LockScreenActivity"
-34-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:20:13-47
-35            android:excludeFromRecents="true"
-35-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:21:13-46
-36            android:label="@string/app_name"
-36-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:22:13-45
-37            android:launchMode="singleTask"
-37-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:23:13-44
-38            android:screenOrientation="portrait"
-38-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:24:13-49
-39            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
-39-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:25:13-71
-40            <intent-filter>
-40-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:26:13-30:29
-41                <action android:name="android.intent.action.MAIN" />
-41-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:27:17-69
-41-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:27:25-66
-42
-43                <category android:name="android.intent.category.LAUNCHER" />
-43-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:17-77
-43-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:27-74
-44            </intent-filter>
-45        </activity>
-46
-47        <service android:name="com.mehuljoisar.lockscreen.utils.LockscreenService" />
-47-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:9-60
-47-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:18-57
-48
-49        <receiver
-49-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:35:9-41:20
-50            android:name="com.mehuljoisar.lockscreen.utils.LockscreenIntentReceiver"
-50-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:36:13-59
-51            android:enabled="true" >
-51-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:37:13-35
-52            <intent-filter>
-52-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:38:13-40:29
-53                <action android:name="android.intent.action.BOOT_COMPLETED" />
-53-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:39:17-79
-53-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:39:25-76
-54            </intent-filter>
-55        </receiver>
-56
-57        <meta-data
-57-->[com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:23:9-25:38
-58            android:name="android.support.VERSION"
-58-->[com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:24:13-51
-59            android:value="26.1.0" />
-59-->[com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:25:13-35
-60    </application>
+12    <uses-permission android:name="android.permission.REORDER_TASKS" />
+12-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:5-72
+12-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:22-69
+13    <uses-permission android:name="android.permission.WAKE_LOCK" />
+13-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:9:5-68
+13-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:9:22-65
+14    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+14-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:10:5-81
+14-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:10:22-78
+15    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+15-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:11:5-75
+15-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:11:22-72
+16    <uses-permission android:name="android.permission.REORDER_TASKS" />
+16-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:5-72
+16-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:8:22-69
+17    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+17-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:13:5-78
+17-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:13:22-75
+18    <uses-permission android:name="android.permission.CAMERA" />
+18-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:14:5-65
+18-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:14:22-62
+19
+20    <uses-feature android:name="android.hardware.camera" />
+20-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:15:5-60
+20-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:15:19-57
+21    <uses-feature android:name="android.hardware.camera.autofocus" />
+21-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:16:5-70
+21-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:16:19-67
+22    <uses-feature
+22-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:25:5-27:36
+23        android:name="android.hardware.camera.front"
+23-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:26:9-53
+24        android:required="false" />
+24-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:27:9-33
+25    <uses-feature
+25-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:28:5-30:36
+26        android:name="android.hardware.microphone"
+26-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:29:9-51
+27        android:required="false" />
+27-->[com.otaliastudios:cameraview:1.3.2] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\672a6f57508e969fcebb0ce431ddf91f\cameraview-1.3.2\AndroidManifest.xml:30:9-33
+28
+29    <application
+29-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:18:5-46:19
+30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+30-->[androidx.core:core:1.5.0-beta01] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\7408d50c26d59f4be857df1cc0daa0e9\core-1.5.0-beta01\AndroidManifest.xml:24:18-86
+31        android:debuggable="true"
+32        android:icon="@drawable/logo"
+32-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:19:9-38
+33        android:label="@string/app_name"
+33-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:20:9-41
+34        android:testOnly="true" >
+35        <activity
+35-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:21:9-35:20
+36            android:name="com.mehuljoisar.lockscreen.LockScreenActivity"
+36-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:22:13-47
+37            android:excludeFromRecents="true"
+37-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:23:13-46
+38            android:label="@string/app_name"
+38-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:24:13-45
+39            android:launchMode="singleTask"
+39-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:25:13-44
+40            android:screenOrientation="portrait"
+40-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:26:13-49
+41            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+41-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:27:13-71
+42            <intent-filter>
+42-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:28:13-34:29
+43                <action android:name="android.intent.action.MAIN" />
+43-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:17-69
+43-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:29:25-66
+44
+45                <category android:name="android.intent.category.LAUNCHER" />
+45-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:17-77
+45-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:27-74
+46                <category android:name="android.intent.category.LAUNCHER" />
+46-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:17-77
+46-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:30:27-74
+47                <!-- <category android:name="android.intent.category.HOME" /> -->
+48                <category android:name="android.intent.category.DEFAULT" />
+48-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:17-76
+48-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:33:27-73
+49            </intent-filter>
+50        </activity>
+51
+52        <service android:name="com.mehuljoisar.lockscreen.utils.LockscreenService" />
+52-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:37:9-60
+52-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:37:18-57
+53
+54        <receiver
+54-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:39:9-45:20
+55            android:name="com.mehuljoisar.lockscreen.utils.LockscreenIntentReceiver"
+55-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:40:13-59
+56            android:enabled="true" >
+56-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:41:13-35
+57            <intent-filter>
+57-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:42:13-44:29
+58                <action android:name="android.intent.action.BOOT_COMPLETED" />
+58-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:43:17-79
+58-->C:\Users\strat\Android Studio Projects\LockScreenApp\app\src\main\AndroidManifest.xml:43:25-76
+59            </intent-filter>
+60        </receiver>
 61
-62</manifest>
+62        <meta-data
+62-->[com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:23:9-25:38
+63            android:name="android.support.VERSION"
+63-->[com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:24:13-51
+64            android:value="26.1.0" />
+64-->[com.android.support:exifinterface:26.1.0] C:\Users\strat\.gradle\caches\transforms-2\files-2.1\2279831306c0718b99964cdd237634a3\exifinterface-26.1.0\AndroidManifest.xml:25:13-35
+65    </application>
+66
+67</manifest>

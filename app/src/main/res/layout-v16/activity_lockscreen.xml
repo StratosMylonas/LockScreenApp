@@ -32,4 +32,17 @@
         android:contentDescription="@string/camera"
         android:layout_gravity="center"/>
 
+    <!--    <ImageButton-->
+<!--        android:id="@+id/btnUnlock"-->
+<!--        android:layout_width="75dp"-->
+<!--        android:layout_height="75dp"-->
+<!--        android:padding="15dp"-->
+<!--        android:background="#00000000"-->
+<!--        android:src="@drawable/unlock"-->
+<!--        android:scaleType="fitXY"-->
+<!--        android:textAppearance="@android:style/TextAppearance.Large"-->
+<!--        android:textColor="@color/selector_txt_btn_unlock"-->
+<!--        android:contentDescription="@string/unlock"-->
+<!--        android:layout_gravity="bottom|right"/>-->
+
 </FrameLayout>

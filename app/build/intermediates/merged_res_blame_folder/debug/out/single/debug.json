@@ -1,11 +1,23 @@
 [
     {
+        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_background.png.flat",
+        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-xhdpi\\background.png"
+    },
+    {
         "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },
     {
         "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
         "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\layout-v16_activity_lockscreen.xml.flat",
+        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\layout-v16\\activity_lockscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_empty.png.flat",
+        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-xhdpi\\empty.png"
     },
     {
         "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\color_selector_txt_btn_unlock.xml.flat",
@@ -24,20 +36,20 @@
         "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_lockscreen.xml.flat",
-        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\layout\\activity_lockscreen.xml"
-    },
-    {
         "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
         "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unlock.png.flat",
-        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-hdpi\\unlock.png"
+        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_camera.png.flat",
+        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-xhdpi\\camera.png"
     },
     {
         "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\xml_backup_descriptor.xml.flat",
         "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\xml\\backup_descriptor.xml"
+    },
+    {
+        "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_logo.png.flat",
+        "source": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\src\\main\\res\\drawable-xxhdpi\\logo.png"
     },
     {
         "merged": "C:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cam.png.flat",

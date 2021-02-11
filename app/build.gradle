@@ -6,8 +6,8 @@ android {
 
     defaultConfig {
         applicationId "com.mehuljoisar.lockscreen"
-        minSdkVersion 15
-        targetSdkVersion 15
+        minSdkVersion 19
+        targetSdkVersion 19
     }
 
     buildTypes {

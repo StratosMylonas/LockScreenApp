@@ -3,6 +3,7 @@ package com.mehuljoisar.lockscreen;
 import android.app.Activity;
 import android.app.KeyguardManager;
 import android.content.Intent;
+import android.media.Image;
 import android.os.Bundle;
 import android.telephony.PhoneStateListener;
 import android.telephony.TelephonyManager;
@@ -77,20 +78,13 @@ public class LockScreenActivity extends Activity implements
 
 		mLockscreenUtils = new LockscreenUtils();
 		// User-interface
-		ImageButton btnUnlock = findViewById(R.id.btnUnlock);
-		btnUnlock.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View v) {
-				// unlock home button and then screen on button press
-				unlockHomeButton();
-			}
-		});
 
-		ImageButton btnCamera = findViewById(R.id.btnCamera);
+		final ImageButton btnCamera = findViewById(R.id.btnCamera);
 		btnCamera.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View view) {
 				cameraView.start();
+				btnCamera.setVisibility(View.INVISIBLE);
 			}
 		});
 	}
@@ -115,7 +109,7 @@ public class LockScreenActivity extends Activity implements
 	// Don't finish Activity on Back press
 	@Override
 	public void onBackPressed() {
-		cameraView.destroy();
+
 	}
 
 	// Handle button clicks
