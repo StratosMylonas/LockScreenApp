@@ -1,4 +1,4 @@
-#Thu Feb 11 16:26:46 EET 2021
+#Thu Feb 18 11:43:16 EET 2021
 base.0=C\:\\Users\\strat\\Android Studio Projects\\LockScreenApp\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
 path.0=classes.dex
 renamed.0=classes.dex
